@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="guiTp">
+    <output-path>$PROJECT_DIR$/out/artifacts/guiTp</output-path>
+    <root id="archive" name="guiTp.jar">
+      <element id="module-output" name="guiTp" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+    </root>
+  </artifact>
+</component>

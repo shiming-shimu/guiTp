@@ -1,0 +1,9 @@
+name: GuiTp
+version: 1.0-SNAPSHOT
+main: me.shiming.guitp.GuiTp
+api-version: 1.13
+authors: [shiming]
+commands:
+  tpa: #指令名
+    description: "打开传送gui" #指令的注解
+    aliases: [tpgui] #指令的多种形式 意为可以用 d, de 来触发/demo这个指令
